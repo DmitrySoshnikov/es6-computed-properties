@@ -7,7 +7,7 @@ function showUsage(code) {
   console.log('Options:');
   console.log();
   console.log('  -h,  --help      prints this usage info');
-  console.log('       --es=<n>    target ES version: 5 (default) or 3')
+  console.log('       --es=<n>    target ES version: 5 (default) or 3');
   console.log();
   console.log('Examples:');
   console.log();

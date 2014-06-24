@@ -3,7 +3,7 @@
 Compiles JavaScript written using ES6 computed properties to use
 ES5- or ES3-compatible syntax. For example, this:
 
-```
+```js
 var propName = 'code';
 
 var params = {

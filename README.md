@@ -7,8 +7,8 @@ ES5- or ES3-compatible syntax. For example, this:
 var propName = 'code';
 
 var params = {
-  [propName]: true
-  ['data' + propName.toUpperCase()]: true
+  \[propName\]: true
+  \['data' + propName.toUpperCase()\]: true
 };
 
 console.log(params); // {code: true, dataCode: true}

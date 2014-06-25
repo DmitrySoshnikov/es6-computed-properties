@@ -11,7 +11,7 @@
     "url": "git@github.com:DmitrySoshnikov/es6-computed-properties.git"
   },
   "dependencies": {
-    "esprima": "git+https://github.com/DmitrySoshnikov/esprima.git#5623e2d238611dc4e799323b1e6733b2f8616f1f",
+    "esprima": "git://github.com/ariya/esprima.git#harmony",
     "recast": "^0.5.13",
     "ast-types": "^0.3.23",
     "through": "~2.3.4",
